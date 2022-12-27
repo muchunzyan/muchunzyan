@@ -1,16 +1,21 @@
-### Hi there 👋
+### GitHub statistics
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=muchunzyan&show_icons=true&hide=prs,issues,contribs&theme=dark)
 
-<!--
-**muchunzyan/muchunzyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Technology stack
+![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=for-the-badge&logo=javascript)
+![HTML](https://img.shields.io/badge/-HTML-333?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-333?style=for-the-badge&logo=css3&logoColor=blue)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-333?style=for-the-badge&logo=Bootstrap)
+![Python](https://img.shields.io/badge/-Python-333?style=for-the-badge&logo=Python)
+![Git](https://img.shields.io/badge/-Git-333?style=for-the-badge&logo=Git)
+![GitHub](https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=GitHub)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333?style=for-the-badge&logo=PostgreSQL)
+![Unity](https://img.shields.io/badge/-Unity-333?style=for-the-badge&logo=Unity)
 
-Here are some ideas to get you started:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muchunzyan&layout=compact&theme=dark)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contacts
+[![Telegram](https://img.shields.io/badge/-Telegram-333?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/muchunzhyan)
+[![VK](https://img.shields.io/badge/-VK-333?style=for-the-badge&logo=Vk&logoColor=27A0D9)](https://vk.com/bifexey)
+[![GitHub](https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=GitHub&logoColor=fff)](https://github.com/muchunzyan)
+[![Itch.io](https://img.shields.io/badge/-Itch.io-333?style=for-the-badge&logo=itch.io&logoColor=FF2449)](https://iam-games.itch.io/)
