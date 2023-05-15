@@ -17,5 +17,6 @@
 ### Contacts
 [![Telegram](https://img.shields.io/badge/-Telegram-333?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/muchunzhyan)
 [![VK](https://img.shields.io/badge/-VK-333?style=for-the-badge&logo=Vk&logoColor=27A0D9)](https://vk.com/bifexey)
+[![Mail](https://img.shields.io/badge/-Mail-333?style=for-the-badge&logo=gmail&logoColor=FF201C)](mailto:muchunzyan@mail.ru)
 [![GitHub](https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=GitHub&logoColor=fff)](https://github.com/muchunzyan)
 [![Itch.io](https://img.shields.io/badge/-Itch.io-333?style=for-the-badge&logo=itch.io&logoColor=FF2449)](https://iam-games.itch.io/)
