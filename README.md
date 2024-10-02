@@ -11,12 +11,11 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=GitHub)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333?style=for-the-badge&logo=PostgreSQL)
 ![Unity](https://img.shields.io/badge/-Unity-333?style=for-the-badge&logo=Unity)
+![Godot](https://img.shields.io/badge/-Godot-333?style=for-the-badge&logo=Godot)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muchunzyan&layout=compact&theme=dark)
 
 ### Contacts
 [![Telegram](https://img.shields.io/badge/-Telegram-333?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/muchunzhyan)
-[![VK](https://img.shields.io/badge/-VK-333?style=for-the-badge&logo=Vk&logoColor=27A0D9)](https://vk.com/bifexey)
-[![Mail](https://img.shields.io/badge/-Mail-333?style=for-the-badge&logo=gmail&logoColor=FF201C)](mailto:muchunzyan@mail.ru)
 [![GitHub](https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=GitHub&logoColor=fff)](https://github.com/muchunzyan)
 [![Itch.io](https://img.shields.io/badge/-Itch.io-333?style=for-the-badge&logo=itch.io&logoColor=FF2449)](https://iam-games.itch.io/)
