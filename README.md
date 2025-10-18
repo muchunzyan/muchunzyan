@@ -12,8 +12,8 @@ I love turning ideas into clean and responsive user interfaces. ✨
 
 ### 💻 Frontend
 <p>
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=for-the-badge">
-  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=for-the-badge">
+  <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=fff&style=for-the-badge">
+  <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?logo=css&logoColor=fff&style=for-the-badge">
 </p>
 
 ### ⚙️ Other technologies
