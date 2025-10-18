@@ -39,10 +39,6 @@ That background helps me understand how products work end-to-end — from logic 
 
 ## 📫 How to reach me
 <p>
-  <a href="https://t.me/muchunzhyan">
-    <img alt="Telegram" src="https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=fff&style=for-the-badge">
-  </a>
-  <a href="mailto:muchunzyan@mail.ru">
-    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=fff&style=for-the-badge">
-  </a>
+  <a href="https://t.me/muchunzhyan"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=fff&style=for-the-badge"></a>
+  <a href="mailto:muchunzyan@mail.ru"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=fff&style=for-the-badge"></a>
 </p>
